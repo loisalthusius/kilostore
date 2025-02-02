@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 163.19 150.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1d1d1b;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: LucidaFax, 'Lucida Fax';
+        font-size: 99.86px;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #6bc2be;
+      }
+    </style>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Laag_1">
+      <g id="Laag_1-2" data-name="Laag_1">
+        <g>
+          <circle class="cls-4" cx="85" cy="75.47" r="68.56"/>
+          <g class="cls-2">
+            <text class="cls-1" transform="translate(68.34 114.68)"><tspan x="0" y="0">i</tspan></text>
+            <text class="cls-3" transform="translate(68.34 114.68)"><tspan x="0" y="0">i</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
